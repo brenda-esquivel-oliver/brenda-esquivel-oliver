@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brenda-esquivel-oliver
-- 👀 I’m interested in learning Phyton and Tableu.
+- 👀 I’m interested in learning Python and Tableu.
 - 🌱 I’m currently learning how to create sites in Sharepoint.
 - 💞️ I’m looking to collaborate on any project as a Data Analyst.
 - 📫 How to reach me : send me a message in Github or Linkedin
